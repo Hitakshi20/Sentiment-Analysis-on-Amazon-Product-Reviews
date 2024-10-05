@@ -1,6 +1,7 @@
 # Sentiment Analysis on Amazon Reviews
 **Sentiment analysis**, a branch of Natural Language Processing (NLP), automates the extraction of sentiment or opinion from text data. By analyzing sentiments expressed in product reviews, businesses can gain valuable insights into consumer preferences and trends. This project focuses specifically on sentiment analysis for product reviews sourced from Amazon's electronics category. Electronics represent a dynamic and popular category on Amazon, making it crucial for businesses to understand consumer sentiments within this domain.
 
+![Sentiment Analysis Chart](Sentiment-Analysis1.png)
 ## Introduction
 In the expanding realm of e-commerce, platforms like Amazon have transformed the consumer experience, providing unparalleled access to a vast array of products. However, this abundance of choice presents challenges for both consumers and businesses. The surge in product reviews on platforms like Amazon has created a wealth of feedback for consumers to navigate. Yet, for businesses, the challenge lies in extracting meaningful insights from this massive volume of unstructured data.
 
