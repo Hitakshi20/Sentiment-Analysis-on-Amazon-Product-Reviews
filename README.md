@@ -22,7 +22,7 @@ This project addresses this issue by developing a machine learning model that cl
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, scikit-learn, NLTK, Matplotlib
 - **Algorithms:** Logistic Regression, Naive Bayes, Random Forest
-- **Tools:** Jupyter Notebook
+- **Tools:** Google Colab
 
 ## Results
 ### Without Cross-Validation
